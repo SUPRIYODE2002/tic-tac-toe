@@ -4,7 +4,7 @@ A fully interactive and responsive Tic Tac Toe game built using HTML, CSS, and J
 The game allows two players to play on the same device with real-time win detection, draw handling, and an option to restart the game.
 
 
-👉 Play Now:
+👉 Play Now:https://supriyode2002.github.io/tic-tac-toe/
 
 Features
 
